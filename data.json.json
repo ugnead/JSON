@@ -1,0 +1,38 @@
+ [
+  {
+    "imgSrc": "IMG/download.jfif",
+    "title": "Korteles Pavadinimas1",
+    "text": "Korteles tekstas",
+    "btnText": "Mygtuko pavadinimas"
+  },
+  {
+    "imgSrc": "IMG/download.jfif",
+    "title": "Korteles Pavadinimas2",
+    "text": "Korteles tekstas",
+    "btnText": "Mygtuko pavadinimas"
+  },
+  {
+    "imgSrc": "IMG/download.jfif",
+    "title": "Korteles Pavadinimas3",
+    "text": "Korteles tekstas",
+    "btnText": "Mygtuko pavadinimas"
+  },
+  {
+    "imgSrc": "IMG/download.jfif",
+    "title": "Korteles Pavadinimas4",
+    "text": "Korteles tekstas",
+    "btnText": "Mygtuko pavadinimas"
+  },
+  {
+    "imgSrc": "IMG/download.jfif",
+    "title": "Korteles Pavadinimas5",
+    "text": "Korteles tekstas",
+    "btnText": "Mygtuko pavadinimas"
+  },
+  {
+    "imgSrc": "IMG/download.jfif",
+    "title": "Korteles Pavadinimas6",
+    "text": "Korteles tekstas",
+    "btnText": "Mygtuko pavadinimas"
+  }
+]
