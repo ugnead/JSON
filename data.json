@@ -1,38 +1,20 @@
- [
-  {
-    "imgSrc": "IMG/download.jfif",
-    "title": "Korteles Pavadinimas1",
-    "text": "Korteles tekstas",
-    "btnText": "Mygtuko pavadinimas"
-  },
-  {
-    "imgSrc": "IMG/download.jfif",
-    "title": "Korteles Pavadinimas2",
-    "text": "Korteles tekstas",
-    "btnText": "Mygtuko pavadinimas"
-  },
-  {
-    "imgSrc": "IMG/download.jfif",
-    "title": "Korteles Pavadinimas3",
-    "text": "Korteles tekstas",
-    "btnText": "Mygtuko pavadinimas"
-  },
-  {
-    "imgSrc": "IMG/download.jfif",
-    "title": "Korteles Pavadinimas4",
-    "text": "Korteles tekstas",
-    "btnText": "Mygtuko pavadinimas"
-  },
-  {
-    "imgSrc": "IMG/download.jfif",
-    "title": "Korteles Pavadinimas5",
-    "text": "Korteles tekstas",
-    "btnText": "Mygtuko pavadinimas"
-  },
-  {
-    "imgSrc": "IMG/download.jfif",
-    "title": "Korteles Pavadinimas6",
-    "text": "Korteles tekstas",
-    "btnText": "Mygtuko pavadinimas"
-  }
+[
+    {
+        "cardImg": "https://th.bing.com/th/id/R.30ab5c5f19121a386ca1b5295af759b8?rik=RO6UnwW5ixbUtQ&riu=http%3a%2f%2fwallup.net%2fwp-content%2fuploads%2f2016%2f01%2f25527-nature-hill-Sun.jpg&ehk=hgyB105muadFNSDQjRHEUqVXGmRdDOxaNbGkgs8tXbU%3d&risl=&pid=ImgRaw&r=0",
+        "cardTitle": "Card title",
+        "cardText": "Some quick example text to build on the card title and make up the bulk of the card's content.",
+        "cardButton": "Go somewhere"
+    },
+    {
+        "cardImg": "https://th.bing.com/th/id/R.b3645ab39bd20ca90f2b6d69c59c7290?rik=TYwz3ajHBo0xQA&pid=ImgRaw&r=0",
+        "cardTitle": "River",
+        "cardText": "Lorem ipsum dolor sit, amet consectetur adipisicing elit. Aliquid quos inventore, laboriosam assumenda odit dolorum eligendi nulla.",
+        "cardButton": "Button"
+    },
+    {
+        "cardImg": "https://th.bing.com/th/id/R.20e8172a39a2a1a5f8b7f58c82cd1547?rik=rCJgCXhCCw4fOA&riu=http%3a%2f%2fwallup.net%2fwp-content%2fuploads%2f2016%2f01%2f74563-nature.jpg&ehk=r%2bqOit4QuM5M4ERXTkkCsF91LfI5NuZ6b3zY4Z0iubI%3d&risl=&pid=ImgRaw&r=0",
+        "cardTitle": "Sunset",
+        "cardText": "voluptates repellat minus temporibus dolorem! Expedita ducimus maiores, obcaecati voluptatibus sequi at cupiditate.",
+        "cardButton": "Link"
+    }
 ]
